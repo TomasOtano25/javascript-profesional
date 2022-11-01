@@ -1,0 +1,23 @@
+{
+  "name": "platzi-media-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasOtano25/javascript-profesional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TomasOtano25/javascript-profesional/issues"
+  },
+  "homepage": "https://github.com/TomasOtano25/javascript-profesional#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
